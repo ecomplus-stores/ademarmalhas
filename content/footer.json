@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": false,
     "boleto": false,
     "aura": false,
@@ -36,7 +36,7 @@
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": false,
     "citibank": false,
     "mais": false,
