@@ -1,5 +1,5 @@
 {
-  "css": ".shipping-line>small {\n    -webkit-line-clamp: 5;\n    -webkit-box-orient: vertical;\n    color: var(--text-muted);\n    display: block;\n    display: -webkit-box;\n    line-height: var(--line-height-sm);\n    overflow: hidden\n}\n",
+  "css": "f",
   "html_head": "",
   "html_body": ""
 }
