@@ -1,5 +1,5 @@
 {
-  "css": ".element.style{\n.shipping-line\n>strong{display:inline-block;min-width:120px}\n.shipping-line>span{display:inline-block}\n.shipping-line>small{-webkit-line-clamp:5;-webkit-box-orient:vertical;color:var(--text-muted);display:block;display:-webkit-box;line-height:var(--line-height-sm);overflow:hidden}\n}",
+  "css": ".shipping-line>small {\n    -webkit-line-clamp: 5;\n    -webkit-box-orient: vertical;\n    color: var(--text-muted);\n    display: block;\n    display: -webkit-box;\n    line-height: var(--line-height-sm);\n    overflow: hidden\n}\n",
   "html_head": "",
   "html_body": ""
 }
