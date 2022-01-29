@@ -1,5 +1,5 @@
 {
-  "css": ".shipping-line>small{-webkit-line-clamp:5;-webkit-box-orient:vertical;color:var(--text-muted);display:block;display:-webkit-box;line-height:var(--line-height-sm);overflow:hidden}",
+  "css": ".shipping-line>strong{display:inline-block;min-width:120px}.shipping-line>span{display:inline-block}.shipping-line>small{-webkit-line-clamp:5;-webkit-box-orient:vertical;color:var(--text-muted);display:block;display:-webkit-box;line-height:var(--line-height-sm);overflow:hidden}",
   "html_head": "",
   "html_body": ""
 }
