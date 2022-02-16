@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Compras apenas com CNPJ!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#fc0000"
   },
   "contacts_stripe": {
     "pages": [
