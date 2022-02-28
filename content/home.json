@@ -45,6 +45,14 @@
       "sort": "sales"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "620132637963422eeef0092f:categories:Saia:/saia",
+      "sort": "sales"
+    },
+    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
