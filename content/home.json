@@ -56,6 +56,11 @@
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+    },
+    {
+      "type": "responsive-banner",
+      "mobile_img": "",
+      "img": "/img/uploads/whatsapp-image-2022-02-03-at-13.30.37.webp"
     }
   ]
 }
