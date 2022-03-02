@@ -19,6 +19,18 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/saida-de-praia-tricot-manga-flare-curta-vestido-trico.jpg",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/images.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -61,18 +73,6 @@
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/headphone.webp",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/og-image.png"
-        }
-      ]
     }
   ]
 }
