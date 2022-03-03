@@ -22,11 +22,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/saida-de-praia-tricot-manga-flare-curta-vestido-trico.webp",
+          "img": "/img/uploads/blusa-manga-longa.png",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/images.webp"
+          "img": "/img/uploads/blusa.png",
+          "link": "https://ademarmalhastricot.com/blusa"
         }
       ]
     },
