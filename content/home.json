@@ -28,6 +28,54 @@
         {
           "img": "/img/uploads/blusa.png",
           "link": "https://ademarmalhastricot.com/blusa"
+        },
+        {
+          "img": "/img/uploads/cardigan.png",
+          "link": "https://ademarmalhastricot.com/cardigan"
+        },
+        {
+          "img": "/img/uploads/casaco.png",
+          "link": "https://ademarmalhastricot.com/casaco"
+        },
+        {
+          "img": "/img/uploads/casaqueto.png"
+        },
+        {
+          "img": "/img/uploads/colete.png",
+          "link": "https://ademarmalhastricot.com/colete"
+        },
+        {
+          "img": "/img/uploads/conjunto.png",
+          "link": "https://ademarmalhastricot.com/conjunto"
+        },
+        {
+          "img": "/img/uploads/cropped-manga-longa.png",
+          "link": "https://ademarmalhastricot.com/casaqueto"
+        },
+        {
+          "img": "/img/uploads/mini-vest.png",
+          "link": "https://ademarmalhastricot.com/mini-vest"
+        },
+        {
+          "mobile_img": "",
+          "img": "/img/uploads/moda-praia.png",
+          "link": "https://ademarmalhastricot.com/moda-praia"
+        },
+        {
+          "img": "/img/uploads/poncho.png",
+          "link": "https://ademarmalhastricot.com/poncho"
+        },
+        {
+          "img": "/img/uploads/sobretudo.png",
+          "link": "https://ademarmalhastricot.com/sobretudo"
+        },
+        {
+          "img": "/img/uploads/vestido-manga-longa.png",
+          "link": "https://ademarmalhastricot.com/vestido"
+        },
+        {
+          "link": "https://ademarmalhastricot.com/saia",
+          "img": "/img/uploads/saia.png"
         }
       ]
     },
