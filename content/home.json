@@ -8,53 +8,87 @@
       "full_width": false,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2022-02-03-at-13.30.37.webp"
+          "start": "2022-03-03T16:59:36.347Z",
+          "end": "2022-03-03T16:59:36.362Z",
+          "img": "/img/uploads/vestido-manga-longa.png"
+        },
+        {
+          "start": "2022-03-03T17:00:12.744Z",
+          "end": "2022-03-03T17:00:12.765Z",
+          "img": "/img/uploads/sobretudo.png"
+        },
+        {
+          "start": "2022-03-03T17:02:31.417Z",
+          "end": "2022-03-03T17:02:31.435Z",
+          "img": "/img/uploads/saia.png"
+        },
+        {
+          "start": "2022-03-03T17:02:38.900Z",
+          "end": "2022-03-03T17:02:38.920Z",
+          "img": "/img/uploads/poncho.png"
+        },
+        {
+          "start": "2022-03-03T17:02:46.895Z",
+          "end": "2022-03-03T17:02:46.918Z",
+          "img": "/img/uploads/moda-praia.png"
+        },
+        {
+          "start": "2022-03-03T17:02:53.622Z",
+          "end": "2022-03-03T17:02:53.653Z",
+          "mobile_img": "",
+          "img": "/img/uploads/mini-vest.png"
+        },
+        {
+          "start": "2022-03-03T17:03:21.145Z",
+          "end": "2022-03-03T17:03:21.175Z",
+          "img": "/img/uploads/cropped-manga-longa.png"
+        },
+        {
+          "start": "2022-03-03T17:03:32.405Z",
+          "end": "2022-03-03T17:03:32.434Z",
+          "img": "/img/uploads/conjunto.png"
+        },
+        {
+          "start": "2022-03-03T17:03:42.913Z",
+          "end": "2022-03-03T17:03:42.943Z",
+          "img": "/img/uploads/conjunto.png"
+        },
+        {
+          "start": "2022-03-03T17:03:56.072Z",
+          "end": "2022-03-03T17:03:56.107Z",
+          "img": "/img/uploads/colete.png"
+        },
+        {
+          "start": "2022-03-03T17:04:06.287Z",
+          "end": "2022-03-03T17:04:06.329Z",
+          "img": "/img/uploads/casaqueto.png"
+        },
+        {
+          "start": "2022-03-03T17:04:16.413Z",
+          "end": "2022-03-03T17:04:16.473Z",
+          "mobile_img": "",
+          "img": "/img/uploads/casaco.png"
+        },
+        {
+          "start": "2022-03-03T17:04:51.935Z",
+          "end": "2022-03-03T17:04:51.969Z",
+          "img": "/img/uploads/cardigan.png"
+        },
+        {
+          "start": "2022-03-03T17:05:01.743Z",
+          "end": "2022-03-03T17:05:01.822Z",
+          "img": "/img/uploads/blusa.png"
+        },
+        {
+          "start": "2022-03-03T17:05:18.330Z",
+          "end": "2022-03-03T17:05:18.366Z",
+          "img": "/img/uploads/blusa-manga-longa.png"
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/blusa-manga-longa.png",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/blusa.png",
-          "link": "https://ademarmalhastricot.com/blusa"
-        },
-        {
-          "img": "/img/uploads/cardigan.png",
-          "link": "https://ademarmalhastricot.com/cardigan"
-        },
-        {
-          "img": "/img/uploads/casaco.png",
-          "link": "https://ademarmalhastricot.com/casaco"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/casaqueto.png"
-        },
-        {
-          "img": "/img/uploads/colete.png"
-        },
-        {
-          "img": "/img/uploads/conjunto.png"
-        },
-        {
-          "img": "/img/uploads/cropped-manga-longa.png"
-        }
-      ]
     },
     {
       "type": "banners-grid",
