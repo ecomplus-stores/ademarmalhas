@@ -36,29 +36,23 @@
         {
           "img": "/img/uploads/casaco.png",
           "link": "https://ademarmalhastricot.com/casaco"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/casaqueto.png"
         },
         {
-          "img": "/img/uploads/colete.png",
-          "link": "https://ademarmalhastricot.com/colete"
+          "img": "/img/uploads/colete.png"
         },
         {
-          "img": "/img/uploads/conjunto.png",
-          "link": "https://ademarmalhastricot.com/conjunto"
+          "img": "/img/uploads/conjunto.png"
         },
         {
-          "img": "/img/uploads/cropped-manga-longa.png",
-          "link": "https://ademarmalhastricot.com/casaqueto"
-        },
-        {
-          "img": "/img/uploads/vestido-manga-longa.png",
-          "link": "https://ademarmalhastricot.com/vestido"
-        },
-        {
-          "link": "https://ademarmalhastricot.com/saia",
-          "img": "/img/uploads/saia.png"
+          "img": "/img/uploads/cropped-manga-longa.png"
         }
       ]
     },
