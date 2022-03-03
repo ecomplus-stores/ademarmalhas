@@ -53,29 +53,23 @@
           "link": "https://ademarmalhastricot.com/casaqueto"
         },
         {
-          "img": "/img/uploads/mini-vest.png",
-          "link": "https://ademarmalhastricot.com/mini-vest"
-        },
-        {
-          "mobile_img": "",
-          "img": "/img/uploads/moda-praia.png",
-          "link": "https://ademarmalhastricot.com/moda-praia"
-        },
-        {
-          "img": "/img/uploads/poncho.png",
-          "link": "https://ademarmalhastricot.com/poncho"
-        },
-        {
-          "img": "/img/uploads/sobretudo.png",
-          "link": "https://ademarmalhastricot.com/sobretudo"
-        },
-        {
           "img": "/img/uploads/vestido-manga-longa.png",
           "link": "https://ademarmalhastricot.com/vestido"
         },
         {
           "link": "https://ademarmalhastricot.com/saia",
           "img": "/img/uploads/saia.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/moda-praia.png"
+        },
+        {
+          "img": "/img/uploads/poncho.png"
         }
       ]
     },
