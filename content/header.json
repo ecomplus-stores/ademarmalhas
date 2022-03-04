@@ -11,14 +11,14 @@
         "link": "/pages/sobre-nos"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
     "random": 6,
     "full_width": false
   },
-  "search_input": true,
-  "desktop_megamenu": true
+  "search_input": false,
+  "desktop_megamenu": false
 }
