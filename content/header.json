@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Compras apenas com CNPJ!",
-    "link": "/promotion",
+    "link": "",
     "background": ""
   },
   "contacts_stripe": {
@@ -11,14 +11,14 @@
         "link": "/pages/sobre-nos"
       }
     ],
-    "phone_wpp": false,
-    "socials": false
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 6,
     "full_width": false
   },
-  "search_input": false,
-  "desktop_megamenu": false
+  "search_input": true,
+  "desktop_megamenu": true
 }
