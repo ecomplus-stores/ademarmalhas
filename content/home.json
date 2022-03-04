@@ -32,6 +32,33 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "custom-content",
+      "markdown": "# <center>VERÃO</center>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/blusa.webp"
+        },
+        {
+          "img": "/img/uploads/moda_praia.webp"
+        },
+        {
+          "img": "/img/uploads/regata.webp"
+        },
+        {
+          "img": "/img/uploads/saia.webp"
+        },
+        {
+          "img": "/img/uploads/vestido.webp"
+        },
+        {
+          "img": "/img/uploads/cropped.webp"
+        }
+      ]
     }
   ]
 }
