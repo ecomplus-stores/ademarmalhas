@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Compras apenas com CNPJ!",
     "link": "",
-    "background": ""
+    "background": "#ca9499",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
