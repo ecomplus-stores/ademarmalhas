@@ -63,6 +63,29 @@
     {
       "type": "custom-content",
       "markdown": "# <center>INVERNO</center>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/casaqueto.webp"
+        },
+        {
+          "img": "/img/uploads/colete.webp"
+        },
+        {
+          "img": "/img/uploads/cardigan.webp"
+        },
+        {
+          "img": "/img/uploads/casaco.webp"
+        },
+        {
+          "img": "/img/uploads/blusa_manga_longa.webp"
+        },
+        {
+          "img": "/img/uploads/poncho.webp"
+        }
+      ]
     }
   ]
 }
