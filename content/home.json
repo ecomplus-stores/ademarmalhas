@@ -59,6 +59,10 @@
           "img": "/img/uploads/cropped.webp"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "# <center>INVERNO</center>"
     }
   ]
 }
