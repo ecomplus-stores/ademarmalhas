@@ -86,6 +86,29 @@
           "img": "/img/uploads/poncho.webp"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mini_vest.webp"
+        },
+        {
+          "img": "/img/uploads/cropped_manga_longa.webp"
+        },
+        {
+          "img": "/img/uploads/conjunto.webp"
+        },
+        {
+          "img": "/img/uploads/sobretudo.webp"
+        },
+        {
+          "img": "/img/uploads/twinset.webp"
+        },
+        {
+          "img": "/img/uploads/vestido_manga_longa.webp"
+        }
+      ]
     }
   ]
 }
