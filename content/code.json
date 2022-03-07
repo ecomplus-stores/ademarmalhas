@@ -1,5 +1,5 @@
 {
-  "css": ".header__buttons .btn{box-shadow:none;color:var(--primary);margin-left:var(--spacer-1);padding:var(--spacer-2);position:relative;transition:color .2s}\n.footer__store{color:var(--primary);font-weight:var(--font-headings)}\n.header__toggler-icon{color:var(--primary);font-size:1.3rem;margin-bottom:-.13rem;margin-right:var(--spacer-1)}",
+  "css": ".header__buttons .btn{box-shadow:none;color:var(--primary);margin-left:var(--spacer-1);padding:var(--spacer-2);position:relative;transition:color .2s}\n.footer__store{color:var(--primary);font-weight:var(--font-headings)}\n",
   "html_head": "",
   "html_body": ""
 }
