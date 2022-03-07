@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".btn{box-shadow:none;color:var(--primary)",
   "html_head": "",
   "html_body": ""
 }
