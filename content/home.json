@@ -112,6 +112,23 @@
           "img": "/img/uploads/saia.webp"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-03-07T23:14:24.813Z",
+          "end": "2022-03-07T23:14:24.832Z",
+          "img": "/img/uploads/blusa.webp"
+        },
+        {
+          "start": "2022-03-07T23:14:31.999Z",
+          "end": "2022-03-07T23:14:32.026Z",
+          "img": "/img/uploads/casaco.webp"
+        }
+      ]
     }
   ]
 }
