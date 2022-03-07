@@ -1,5 +1,5 @@
 {
-  "css": ".btn{box-shadow:none;color:var(#cc969e)}",
+  "css": ".header__buttons .btn{box-shadow:none;color:var(--primary);margin-left:var(--spacer-1);padding:var(--spacer-2);position:relative;transition:color .2s}",
   "html_head": "",
   "html_body": ""
 }
