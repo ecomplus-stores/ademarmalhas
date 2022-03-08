@@ -45,19 +45,24 @@
           "link": "ademarmalhastricot.com/vestido-curto"
         },
         {
-          "img": "/img/uploads/moda_praia.webp"
+          "img": "/img/uploads/moda_praia.webp",
+          "link": "ademarmalhastricot.com/moda-praia"
         },
         {
-          "img": "/img/uploads/regata.webp"
+          "img": "/img/uploads/regata.webp",
+          "link": "ademarmalhastricot.com/regata"
         },
         {
-          "img": "/img/uploads/saia.webp"
+          "img": "/img/uploads/saia.webp",
+          "link": "ademarmalhastricot.com/saia"
         },
         {
-          "img": "/img/uploads/vestido.webp"
+          "img": "/img/uploads/vestido.webp",
+          "link": "ademarmalhastricot.com/vestido"
         },
         {
-          "img": "/img/uploads/cropped.webp"
+          "img": "/img/uploads/cropped.webp",
+          "link": "ademarmalhastricot.com/casaqueto"
         }
       ]
     },
