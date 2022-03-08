@@ -41,7 +41,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/blusa.webp"
+          "img": "/img/uploads/blusa.webp",
+          "link": "ademarmalhastricot.com/vestido-curto"
         },
         {
           "img": "/img/uploads/moda_praia.webp"
