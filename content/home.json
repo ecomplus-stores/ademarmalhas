@@ -80,16 +80,20 @@
           "img": "/img/uploads/colete.webp"
         },
         {
-          "img": "/img/uploads/cardigan.webp"
+          "img": "/img/uploads/cardigan.webp",
+          "link": "ademarmalhastricot.com/cardigan"
         },
         {
-          "img": "/img/uploads/casaco.webp"
+          "img": "/img/uploads/casaco.webp",
+          "link": "ademarmalhastricot.com/casaco"
         },
         {
-          "img": "/img/uploads/blusa_manga_longa.webp"
+          "img": "/img/uploads/blusa_manga_longa.webp",
+          "link": "ademarmalhastricot.com/blusa-manga-longa"
         },
         {
-          "img": "/img/uploads/poncho.webp"
+          "img": "/img/uploads/poncho.webp",
+          "link": "ademarmalhastricot.com/poncho"
         }
       ]
     },
