@@ -101,22 +101,28 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/mini_vest.webp"
+          "img": "/img/uploads/mini_vest.webp",
+          "link": "ademarmalhastricot.com/mini-vest"
         },
         {
-          "img": "/img/uploads/cropped_manga_longa.webp"
+          "img": "/img/uploads/cropped_manga_longa.webp",
+          "link": "ademarmalhastricot.com/cropped-manga-longa"
         },
         {
-          "img": "/img/uploads/conjunto.webp"
+          "img": "/img/uploads/conjunto.webp",
+          "link": "ademarmalhastricot.com/conjunto"
         },
         {
-          "img": "/img/uploads/sobretudo.webp"
+          "img": "/img/uploads/sobretudo.webp",
+          "link": "ademarmalhastricot.com/sobretudo"
         },
         {
-          "img": "/img/uploads/twinset.webp"
+          "img": "/img/uploads/twinset.webp",
+          "link": "ademarmalhastricot.com/twin-set"
         },
         {
-          "img": "/img/uploads/vestido_manga_longa.webp"
+          "img": "/img/uploads/vestido_manga_longa.webp",
+          "link": "ademarmalhastricot.com/vestido-longo"
         }
       ]
     }
