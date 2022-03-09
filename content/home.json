@@ -46,7 +46,7 @@
         },
         {
           "img": "/img/uploads/moda_praia.webp",
-          "link": "ademarmalhastricot.com/moda-praia"
+          "link": "https://ademarmalhastricot.com/moda-praia"
         },
         {
           "img": "/img/uploads/regata.webp",
@@ -54,15 +54,15 @@
         },
         {
           "img": "/img/uploads/saia.webp",
-          "link": "ademarmalhastricot.com/saia"
+          "link": "https://ademarmalhastricot.com/saia"
         },
         {
           "img": "/img/uploads/vestido.webp",
-          "link": "ademarmalhastricot.com/vestido"
+          "link": "https://ademarmalhastricot.com/vestido"
         },
         {
           "img": "/img/uploads/cropped.webp",
-          "link": "ademarmalhastricot.com/cropped-manga-curta"
+          "link": "https://ademarmalhastricot.com/cropped-manga-curta"
         }
       ]
     },
@@ -81,19 +81,19 @@
         },
         {
           "img": "/img/uploads/cardigan.webp",
-          "link": "ademarmalhastricot.com/cardigan"
+          "link": "https://ademarmalhastricot.com/cardigan"
         },
         {
           "img": "/img/uploads/casaco.webp",
-          "link": "ademarmalhastricot.com/casaco"
+          "link": "https://ademarmalhastricot.com/casaco"
         },
         {
           "img": "/img/uploads/blusa_manga_longa.webp",
-          "link": "ademarmalhastricot.com/blusa-manga-longa"
+          "link": "https://ademarmalhastricot.com/blusa-manga-longa"
         },
         {
           "img": "/img/uploads/poncho.webp",
-          "link": "ademarmalhastricot.com/poncho"
+          "link": "https://ademarmalhastricot.com/poncho"
         }
       ]
     },
@@ -102,27 +102,27 @@
       "banners": [
         {
           "img": "/img/uploads/mini_vest.webp",
-          "link": "ademarmalhastricot.com/mini-vest"
+          "link": "https://ademarmalhastricot.com/mini-vest"
         },
         {
           "img": "/img/uploads/cropped_manga_longa.webp",
-          "link": "ademarmalhastricot.com/cropped-manga-longa"
+          "link": "https://ademarmalhastricot.com/cropped-manga-longa"
         },
         {
           "img": "/img/uploads/conjunto.webp",
-          "link": "ademarmalhastricot.com/conjunto"
+          "link": "https://ademarmalhastricot.com/conjunto"
         },
         {
           "img": "/img/uploads/sobretudo.webp",
-          "link": "ademarmalhastricot.com/sobretudo"
+          "link": "https://ademarmalhastricot.com/sobretudo"
         },
         {
           "img": "/img/uploads/twinset.webp",
-          "link": "ademarmalhastricot.com/twin-set"
+          "link": "https://ademarmalhastricot.com/twin-set"
         },
         {
           "img": "/img/uploads/vestido_manga_longa.webp",
-          "link": "ademarmalhastricot.com/vestido-longo"
+          "link": "https://ademarmalhastricot.com/vestido-longo"
         }
       ]
     }
