@@ -74,7 +74,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/casaqueto.webp"
+          "img": "/img/uploads/casaqueto.webp",
+          "link": "https://ademarmalhastricot.com/casaqueto"
         },
         {
           "img": "/img/uploads/colete.webp",
