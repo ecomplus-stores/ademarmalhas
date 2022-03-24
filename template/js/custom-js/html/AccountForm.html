@@ -117,20 +117,24 @@
   <div class="form-group">
     <div
       class="custom-control custom-radio custom-control-inline"
+      v-for="(label, value) in {
+        j: i19companyRegistration
+      }"
     >
       <input
         type="radio"
         name="account-form-type"
         class="custom-control-input"
-        id="account-form-type-j"
-        value="j"
+        :id="`account-form-type-${value}`"
+        :value="value"
         v-model="localCustomer.registry_type"
         required
       >
       <label
         class="custom-control-label"
+        :for="`account-form-type-${value}`"
       >
-        {{ i19companyRegistration }}
+        {{ label }}
       </label>
     </div>
   </div>
@@ -142,14 +146,16 @@
       </label>
       <input-doc-number
         id="account-form-doc"
+        placeholder="CNPJ"
         v-model="localCustomer.doc_number"
-        isCompany="true"
+        :isCompany="localCustomer.registry_type === 'j'"
         required
       />
     </div>
   </div>
 
   <div
+    v-if="localCustomer.registry_type === 'j'"
     class="account-form__legal-person"
   >
     <div class="form-row">
