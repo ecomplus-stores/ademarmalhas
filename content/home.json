@@ -37,7 +37,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "# <center>VERÃO</center>"
+      "markdown": "# <center>PRODUTOS</center>"
     },
     {
       "type": "banners-grid",
@@ -67,10 +67,6 @@
           "link": "https://ademarmalhastricot.com/cropped-manga-curta"
         }
       ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "# <center>INVERNO</center>"
     },
     {
       "type": "banners-grid",
