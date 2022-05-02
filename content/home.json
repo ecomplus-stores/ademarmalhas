@@ -28,8 +28,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "lowest_price",
+      "collection_id": "62012d6e7963422eeeeff8fe:categories:Blusa manga longa:/blusa-manga-longa",
+      "sort": null,
       "title": "",
       "headless": false,
       "limit": 12,
